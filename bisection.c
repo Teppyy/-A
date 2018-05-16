@@ -9,7 +9,7 @@ double Function1(double x){
 
 double Bisection(double a, double b, double eps){
   double c, fa, fb, fc;
- 
+ //shishido
 
   while(1){
     c = (a+b)/2;
